@@ -9,3 +9,9 @@ For every order we need to assign a robot and build a path to pick-up and drop-o
 
 
 ![](images/clusters.gif)
+
+
+![](images/one_center.gif)
+
+
+![](image/full_path.gif)
